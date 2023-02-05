@@ -2,6 +2,7 @@
 # Maintainer: Giancarlo Razzolini <grazzolini@archlinux.org>
 # Contributor: Anton Hvornum <anton@hvornum.se>
 # Contributor: demostanis worlds <demostanis@protonmail.com>
+# Dogs: https://cdn.discordapp.com/attachments/1052597661578051666/1071882864850911333/image.png
 
 pkgname=dogix-install
 pkgver=2.5.0
