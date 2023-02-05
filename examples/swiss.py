@@ -12,6 +12,8 @@ When using the argument --advanced. an additional menu for several special param
 
 This script respects the --dry_run argument
 
+Also, yes, this can be installed in the Swiss language.
+
 """
 import logging
 import os

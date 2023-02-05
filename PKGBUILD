@@ -3,13 +3,13 @@
 # Contributor: Anton Hvornum <anton@hvornum.se>
 # Contributor: demostanis worlds <demostanis@protonmail.com>
 
-pkgname=archinstall
+pkgname=dogix-install
 pkgver=2.5.0
 #pkgver=$(git describe --long | sed 's/\([^-]*-g\)/r\1/;s/-/./g')
 pkgrel=1
-pkgdesc="Just another guided/automated Arch Linux installer with a twist"
+pkgdesc="dog water with a twist OwO"
 arch=(any)
-url="https://github.com/archlinux/archinstall"
+url="https://github.com/dogix-os/dogix-install"
 license=(GPL3)
 depends=(python)
 makedepends=(python-build python-installer python-flit python-setuptools python-sphinx python-wheel)
